@@ -1,7 +1,7 @@
 # redismod-docker-compose
 
-This repo contains a Docker Compose file configured to use the RedisLabs
-redismod image; a Docker image with selected Redis Labs modules.
+This repo contains a Docker Compose file configured to use the official
+redis-stack image.
 
 ## Pre-requisites
 
